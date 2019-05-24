@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ψ(•ω•#  )↝</title>
+    <link>https://gitigno.red/</link>
+    <description>Recent content on Ψ(•ω•#  )↝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> &amp;#183; &lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 24 May 2019 10:01:22 +0300</lastBuildDate>
+    
+	<atom:link href="https://gitigno.red/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://gitigno.red/about/</link>
+      <pubDate>Fri, 24 May 2019 10:01:22 +0300</pubDate>
+      
+      <guid>https://gitigno.red/about/</guid>
+      <description>Contact: YWJkb0BzaGFqYWRpLmNvbQo=</description>
+    </item>
+    
+    <item>
+      <title>New Blog New Beginning</title>
+      <link>https://gitigno.red/posts/new-blog-new-beginning/</link>
+      <pubDate>Thu, 23 May 2019 15:46:19 +0300</pubDate>
+      
+      <guid>https://gitigno.red/posts/new-blog-new-beginning/</guid>
+      <description>An online corner for my notes, writeups and maybe some diary about security and insecurity!</description>
+    </item>
+    
+  </channel>
+</rss>
